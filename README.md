@@ -1,0 +1,2 @@
+# MCA
+Maximum covariance analysis
